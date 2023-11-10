@@ -1,4 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
+
 import { MENU_ITEMS } from "@/constants";
 
 const initialState = {
